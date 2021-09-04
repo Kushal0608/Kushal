@@ -1,1 +1,2 @@
 I am Line NO 1 in test file.
+I am Line NO 2 in test file
